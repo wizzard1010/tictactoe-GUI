@@ -14,7 +14,7 @@ public class tictactoe {
     int boardWidth = 500;
     int boardHeight = 550;
 
-    JFrame frame = new JFrame("Tic Tac Toe Game");
+    JFrame frame = new JFrame("Tic Tac Toe");
     JLabel label = new JLabel();
     JPanel panel = new JPanel();
     JPanel boardPanel = new JPanel();
